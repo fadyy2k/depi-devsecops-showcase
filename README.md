@@ -2,6 +2,7 @@
 
 [![React](https://img.shields.io/badge/React-Vite-61DAFB?logo=react)](https://react.dev/)
 [![Security](https://img.shields.io/badge/Public-Sanitized-2ea44f)](#)
+[![Build](https://github.com/fadyy2k/depi-devsecops-showcase/actions/workflows/build.yml/badge.svg)](https://github.com/fadyy2k/depi-devsecops-showcase/actions/workflows/build.yml)
 
 A lightweight React + Vite visual documentation portal for the [MIND Notes App DevSecOps project](https://github.com/fadyy2k/depi-mind-app-v2).
 
